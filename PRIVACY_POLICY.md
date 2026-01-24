@@ -1,6 +1,6 @@
 # Privacy Policy for A2Z
 
-**Last Updated: January 23, 2026**
+**Last Updated: January 24, 2026**
 
 ---
 
@@ -151,7 +151,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 ## Политика конфиденциальности для A2Z
 
-**Последнее обновление: 23 января 2026**
+**Последнее обновление: 24 января 2026**
 
 **Примечание**: Русская версия является переводом; при расхождениях применяется английская версия.
 
