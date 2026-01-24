@@ -125,9 +125,9 @@ You have the right to:
 
 If you have questions about this Privacy Policy or wish to exercise your rights, please contact us at:
 
-**Email**: support@a2z.app
+**Email**: alina.altynbayeva.00@gmail.com
 
-**To Request Deletion**: Email support@a2z.app with the subject line "Data deletion request" and include:
+**To Request Deletion**: Email alina.altynbayeva.00@gmail.com with the subject line "Data deletion request" and include:
 - Your email address or account identifier
 - Your organization name (if applicable)
 - Details needed to identify your account, incident records, or on-duty activity logs
@@ -276,9 +276,9 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 Если у вас есть вопросы о настоящей Политике конфиденциальности или вы хотите воспользоваться своими правами, пожалуйста, свяжитесь с нами по адресу:
 
-**Email**: support@a2z.app
+**Email**: alina.altynbayeva.00@gmail.com
 
-**Для запроса удаления**: Напишите на support@a2z.app с темой письма "Запрос на удаление данных" и укажите:
+**Для запроса удаления**: Напишите на alina.altynbayeva.00@gmail.com с темой письма "Запрос на удаление данных" и укажите:
 - Ваш адрес электронной почты или идентификатор учетной записи
 - Название вашей организации (если применимо)
 - Детали, необходимые для идентификации вашей учетной записи, записей об инцидентах или журналов активности на смене
