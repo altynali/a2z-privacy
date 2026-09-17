@@ -1,6 +1,6 @@
 # Privacy Policy for A2Z
 
-**Last Updated: January 24, 2026**
+**Last Updated: January 23, 2026**
 
 ---
 
@@ -125,9 +125,9 @@ You have the right to:
 
 If you have questions about this Privacy Policy or wish to exercise your rights, please contact us at:
 
-**Email**: alina.altynbayeva.00@gmail.com
+**Email**: a2zpatrol@gmail.com
 
-**To Request Deletion**: Email alina.altynbayeva.00@gmail.com with the subject line "Data deletion request" and include:
+**To Request Deletion**: Email a2zpatrol@gmail.com with the subject line "Data deletion request" and include:
 - Your email address or account identifier
 - Your organization name (if applicable)
 - Details needed to identify your account, incident records, or on-duty activity logs
@@ -151,7 +151,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 ## Политика конфиденциальности для A2Z
 
-**Последнее обновление: 24 января 2026**
+**Последнее обновление: 23 января 2026**
 
 **Примечание**: Русская версия является переводом; при расхождениях применяется английская версия.
 
@@ -276,9 +276,9 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 Если у вас есть вопросы о настоящей Политике конфиденциальности или вы хотите воспользоваться своими правами, пожалуйста, свяжитесь с нами по адресу:
 
-**Email**: alina.altynbayeva.00@gmail.com
+**Email**: a2zpatrol@gmail.com
 
-**Для запроса удаления**: Напишите на alina.altynbayeva.00@gmail.com с темой письма "Запрос на удаление данных" и укажите:
+**Для запроса удаления**: Напишите на a2zpatrol@gmail.com с темой письма "Запрос на удаление данных" и укажите:
 - Ваш адрес электронной почты или идентификатор учетной записи
 - Название вашей организации (если применимо)
 - Детали, необходимые для идентификации вашей учетной записи, записей об инцидентах или журналов активности на смене
