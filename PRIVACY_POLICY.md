@@ -1,6 +1,6 @@
 # Privacy Policy for A2Z
 
-**Last Updated: January 23, 2026**
+**Last Updated: September 18, 2026**
 
 ---
 
@@ -98,6 +98,7 @@ When you are on duty, the app may track your location in the background to recor
 - Operational data (incident reports, on-duty route/activity logs, checkpoint records) may be retained as long as necessary to provide the service to your organization and as required by your organization's policies or legal obligations. We do not implement automatic data deletion or default TTL policies; data may be retained until deleted by your organization or processed via deletion request.
 - Some records may be retained for legal, security, or audit purposes even after account deletion.
 - You can request deletion of your account data, incident records, on-duty activity logs, and media stored on the backend through our manual process (see Contact Information section). Deletion requests are processed manually and subject to organizational policies and legal requirements.
+- **Account deletion and name retention**: When you delete your account (in the app or by request), your login credentials and contact details (email address and device notification token) are permanently removed and you can no longer sign in. However, your **name is retained on your existing operational records** (such as incident reports and on-duty activity logs) **solely so that your organization can review and analyze who performed each action in the past**. The retained name is used only for your organization's own accountability and analysis of historical activity — it is not used to operate the app, provide any service to you, or for any other purpose. These operational records, including the associated name, are retained by your organization as the data controller.
 
 ### User Controls
 
@@ -127,7 +128,9 @@ If you have questions about this Privacy Policy or wish to exercise your rights,
 
 **Email**: a2zpatrol@gmail.com
 
-**To Request Deletion**: Email a2zpatrol@gmail.com with the subject line "Data deletion request" and include:
+**To Delete Your Account In-App**: Open the app, go to the **Settings** screen, and use the **Delete account** option. Your login and contact details are removed immediately and you are signed out. See the "Data Retention" section above for what is deleted and what is retained.
+
+**To Request Deletion by Email**: Email a2zpatrol@gmail.com with the subject line "Data deletion request" and include:
 - Your email address or account identifier
 - Your organization name (if applicable)
 - Details needed to identify your account, incident records, or on-duty activity logs
@@ -151,7 +154,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 ## Политика конфиденциальности для A2Z
 
-**Последнее обновление: 23 января 2026**
+**Последнее обновление: 18 сентября 2026**
 
 **Примечание**: Русская версия является переводом; при расхождениях применяется английская версия.
 
@@ -249,6 +252,7 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 - Операционные данные (отчеты об инцидентах, журналы маршрутов/активности на смене, записи контрольных точек) могут храниться столько, сколько необходимо для предоставления услуги вашей организации и в соответствии с политиками вашей организации или правовыми обязательствами. Мы не реализуем автоматическое удаление данных или политики TTL по умолчанию; данные могут храниться до удаления вашей организацией или обработки через запрос на удаление.
 - Некоторые записи могут храниться для правовых, безопасностных или аудиторских целей даже после удаления учетной записи.
 - Вы можете запросить удаление данных вашей учетной записи, записей об инцидентах, журналов активности на смене и медиафайлов, хранящихся на сервере, через наш ручной процесс (см. раздел Контактная информация). Запросы на удаление обрабатываются вручную и подлежат политикам организации и правовым требованиям.
+- **Удаление аккаунта и сохранение имени**: При удалении аккаунта (в приложении или по запросу) ваши учетные данные для входа и контактные данные (адрес email и токен уведомлений устройства) удаляются безвозвратно, и вы больше не сможете войти. Однако ваше **имя сохраняется в существующих операционных записях** (таких как отчеты об инцидентах и журналы активности на смене) **исключительно для того, чтобы ваша организация могла просматривать и анализировать, кто выполнил каждое действие в прошлом**. Сохраненное имя используется только для собственной отчетности и анализа прошлой активности вашей организацией — оно не используется для работы приложения, предоставления вам каких-либо услуг или для любых других целей. Эти операционные записи, включая связанное с ними имя, сохраняются вашей организацией как контроллером данных.
 
 ### Контроль пользователя
 
@@ -278,7 +282,9 @@ We may update this Privacy Policy from time to time. We will notify you of mater
 
 **Email**: a2zpatrol@gmail.com
 
-**Для запроса удаления**: Напишите на a2zpatrol@gmail.com с темой письма "Запрос на удаление данных" и укажите:
+**Удаление аккаунта в приложении**: Откройте приложение, перейдите на экран **«Настройки»** и используйте пункт **«Удалить аккаунт»**. Ваш вход и контактные данные удаляются немедленно, и вы выходите из системы. Смотрите раздел «Хранение данных» выше о том, что удаляется, а что сохраняется.
+
+**Для запроса удаления по email**: Напишите на a2zpatrol@gmail.com с темой письма "Запрос на удаление данных" и укажите:
 - Ваш адрес электронной почты или идентификатор учетной записи
 - Название вашей организации (если применимо)
 - Детали, необходимые для идентификации вашей учетной записи, записей об инцидентах или журналов активности на смене
